@@ -26,4 +26,12 @@ A LIST OF GIT BASH COMMANDS:
 
 5. git add [file]  :- This command adds a file from the working tree to the Staging area / current branch.
 
- 
+6. git add * :- This command adds one or more files from the working tree to the Staging area / current branch.
+
+7. git add. :-  Stages all files in the entire repository to the Staging area / current branch. 
+
+8.git rm [file] :- This command deletes the existing file from your working directory.
+
+9. git status :- This command lists all the files that have to be committed.
+
+10. git commit -m “[commit message]” :-This command records or snapshots the changes permanently in the version history of the repository.
