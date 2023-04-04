@@ -35,3 +35,15 @@ A LIST OF GIT BASH COMMANDS:
 9. git status :- This command lists all the files that have to be committed.
 
 10. git commit -m “[commit message]” :-This command records or snapshots the changes permanently in the version history of the repository.
+
+
+-----------------------------------------------------------
+
+
+LOGS AND REVIEW :-
+11. git log :- This command is used to list the version history for the current branch.
+
+12. git log -follow [file] :-This command particularly shows the versions of the file mentioned.
+
+13.git show [commit] :- This command shows the content change and metadata status of the specific commit. 
+
