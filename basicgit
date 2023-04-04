@@ -9,4 +9,21 @@ WHAT IS GIT :
 WHY GIT :
 
 
-		In today's scenario of real world problem solving mechanism Git has been so handy in continuous project development, version control and collaboration. Git acts like a portfolio for staging one's project which can be backed up, viewed and shared easily. Promotes easy collaborating from anyone from With version control we can keep track of any changes made with additional information like the person who modified, reason of modification, exact changes made and of course with the timestamp.       
+		In today's scenario of real world problem solving mechanism Git has been so handy in continuous project development, version control and collaboration. Git acts like a portfolio for staging one's project which can be backed up, viewed and shared easily. Promotes easy collaborating from anyone from With version control we can keep track of any changes made with additional information like the person who modified, reason of modification, exact changes made and of course with the timestamp.      
+
+
+
+A LIST OF GIT BASH COMMANDS:
+
+
+1. git config --global user.name “[name]” :-  This command sets username, which aids in reviewing by whom the changes were made. 
+
+2. git config --global user.email “[email address]” :- This command sets an email address, this inturn helps in tracking by whom the commit or merge activity was made.
+
+3. git init :- This command initialises the existing directory as a git repository
+
+4. git init [repository name] :- This command is used to create or initiate a new git repository.
+
+5. git add [file]  :- This command adds a file from the working tree to the Staging area / current branch.
+
+ 
